@@ -9,7 +9,7 @@
 
 #import "JTCalendarManager.h"
 
-#define MAX_WEEKS_BY_MONTH 6
+#define MAX_WEEKS_BY_MONTH 5
 
 @interface JTCalendarPageView (){
     UIView<JTCalendarWeekDay> *_weekDayView;
